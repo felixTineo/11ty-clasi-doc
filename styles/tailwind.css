@@ -6,7 +6,7 @@
   
   /* Set up some default image behavior for nicer images */
   img {
-    @apply w-auto  shadow-md border-2 border-transparent !important
+    @apply w-auto border-2 border-transparent !important
   }
   img:hover {
     @apply border-2 border-gray-100
@@ -91,6 +91,7 @@
   }
   nav ul li a.active {
     @apply font-semibold;
+    color: #DC314F !important;
   }
   nav.toc ol li {
     @apply pt-2 !important
@@ -110,10 +111,10 @@
 
 /* Utilities and misc */
   .adjust  p img, .adjust img, .adjust p iframe, .adjust iframe, .twitter-tweet {
-    @apply shadow-md ml-auto mr-auto  p-2 !important
+    @apply ml-auto mr-auto  p-2 !important
   }
   .adjust  p img:hover, .adjust img:hover {
-    @apply shadow-xl  
+    
   }
   .adjust img.button {
     @apply w-auto  shadow-none !important
@@ -126,5 +127,28 @@
   }
   input {
    @apply dark:text-gray-400
+  }
+  .blocks{
+    @apply grid;
+    @apply grid-cols-1;
+    @apply gap-10;
+  }
+  @media(min-width: 768px){
+    .blocks{
+      @apply grid;
+      @apply grid-cols-3;
+      @apply gap-10;
+    }
+  }
+  .inline-img {
+    display: flex;
+    align-items: center;
+  }
+  .inline-img img{
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .inline-img h2{
+    margin: 0 !important;
   }
 }
