@@ -19,7 +19,7 @@ Ir a la pagina de [Registro](https://app.clasihome.com/register) en la cual debe
   Asegúrese de leer cuidadosamente los términos y condiciones.
 </p>
 
-![registro](../content/images/register/registro-1.png)
+![formulario de registro](/content/images/register/registro-1.png)
 
 ## Paso 2
 Una vez completado el registro, le sera enviado un código de verificación al correo electrónico que indico en el paso anterior.
@@ -27,18 +27,18 @@ Una vez completado el registro, le sera enviado un código de verificación al c
   El código de verificación podría tardar unos minutos en llegar.
 </p>
 
-![registro](../content/images/register/mail.png)
+![correo de confirmacion](/content/images/register/mail.png)
 
 ## Paso 3
 El código de verificación deberá ser introducido en la siguiente pantalla y luego hacer clic en el botón “Confirmar registro”.
 
-![registro](../content/images/register/registro-2.png)
+![formulario de verificacion](/content/images/register/registro-2.png)
 
 ---
 
 ## Dashboard
 Si siguió los pasos anteriores sin ningún inconveniente debería estar ahora en el dashboard del sistema. De lo contrario, comuníquese con nuestro equipo. 
 
-![registro](../content/images/register/welcome.png)
+![dashboard](/content/images/register/welcome.png)
 
 Felicidades!! Ya forma parte de clasihome. 🎉

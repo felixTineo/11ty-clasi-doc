@@ -23,6 +23,8 @@ La barra de navegación, ubicada a la izquierda, le permitirá acceder a cada un
 
 Es la primera sección que encontrara al acceder a clasihome, en ella se muestra información relacionada con su empresa y especialmente con sus transacciones dentro del sistema, así como, accesos rápidos a ciertas herramientas que le permitirán hacer en un par de pasos una gran cantidad de operaciones, demostrando así la flexibilidad de clasihome en comparación con la competencia.
 
+![registro](/content/images/nav/section-1.jpg)
+
 ---
 
 <div class="inline-img">
@@ -31,6 +33,8 @@ Es la primera sección que encontrara al acceder a clasihome, en ella se muestra
 </div>
 
 En esta sección podrá editar la información general de su empresa, ver y gestionar pagos relacionados con el sistema, editar, agrear y suspender usuarios y/o roles y permisos.
+
+![registro](/content/images/nav/section-2.png)
 
 ---
 
@@ -41,6 +45,8 @@ En esta sección podrá editar la información general de su empresa, ver y gest
 
 Aquí reside una de las características mas potentes de clasihome, en esta sección podrá conectar con una gran diversidad de portales que sincronizan con nuestro sistema, de esta manera, solo tendrá que publicar sus propiedades una sola vez, y las mismas se publicaran en cada uno de los portales que el usuario conecte con su cuenta.
 
+![registro](/content/images/nav/section-3.png)
+
 ---
 
 <div class="inline-img">
@@ -49,6 +55,8 @@ Aquí reside una de las características mas potentes de clasihome, en esta secc
 </div>
 
 En este apartado podrá visualizar, agregar, editar, eliminar, clonar, entre otras operaciones que le permitirán gestionar sus propiedades.
+
+![registro](/content/images/nav/section-4.png)
 
 ---
 
@@ -59,6 +67,8 @@ En este apartado podrá visualizar, agregar, editar, eliminar, clonar, entre otr
 
 En esta sección podrá visualizar y gestionar todo lo relacionado a sus ordenes de visita, brindándole al usuario una interfaz cómoda y una serie de herramientas que facilitan sobre manera la realización de estas operaciones.
 
+![registro](/content/images/nav/section-5.png)
+
 ---
 
 <div class="inline-img">
@@ -67,5 +77,7 @@ En esta sección podrá visualizar y gestionar todo lo relacionado a sus ordenes
 </div>
 
 Aquí podrá gestionar su cartera de clientes y contactos de interés, permitiendo visualizar, agregar, editar, eliminar,  entre otras operaciones que le ayudarán a organizar de manera eficiente uno de sus recursos mas preciados, sus clientes.
+
+![registro](/content/images/nav/section-6.png)
 
 ---
