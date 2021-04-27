@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /dashboard/index.html
 eleventyNavigation:
   key: Dashboard
-  order: 4
+  order: 5
   #title: Hello, world.
 ---
 
@@ -34,7 +34,7 @@ Su cuenta esta solvente y puede usar todas las características de [Clasihome](h
 
 #### Ver movimientos
 
-En este apartado podrá [Ver el historial](/bussiness/plan) de las transacciones de su cuenta y gestionar su plan.
+En este apartado podrá [Ver el historial](/bussiness/plan.html) de las transacciones de su cuenta y gestionar su plan.
 
 ![status-activo](/content/images/dashboard/payment-4.jpg)
 

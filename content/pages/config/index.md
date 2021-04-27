@@ -1,10 +1,10 @@
 ---
 title: Configuración
-date: Last Modified 
+date: Last Modified
 permalink: /config/index.html
 eleventyNavigation:
   key: Configuración
-  order: 2
+  order: 3
   #title: Hello, world.
 ---
 

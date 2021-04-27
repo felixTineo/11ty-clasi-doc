@@ -1,10 +1,10 @@
 ---
 title: Navegación
-date: Last Modified 
+date: Last Modified
 permalink: /nav/index.html
 eleventyNavigation:
   key: Navegación
-  order: 3
+  order: 4
   #title: Hello, world.
 ---
 
@@ -76,7 +76,7 @@ En esta sección podrá visualizar y gestionar todo lo relacionado a sus ordenes
   <img src="/content/images/nav/nav-6.png" alt="carga propiedades" />
 </div>
 
-Aquí podrá gestionar su cartera de clientes y contactos de interés, permitiendo visualizar, agregar, editar, eliminar,  entre otras operaciones que le ayudarán a organizar de manera eficiente uno de sus recursos mas preciados, sus clientes.
+Aquí podrá gestionar su cartera de clientes y contactos de interés, permitiendo visualizar, agregar, editar, eliminar, entre otras operaciones que le ayudarán a organizar de manera eficiente uno de sus recursos mas preciados, sus clientes.
 
 ![registro](/content/images/nav/section-6.png)
 
