@@ -3,7 +3,7 @@ title: Roles
 date: Last Modified
 permalink: /bussiness/roles.html
 eleventyNavigation:
-  key: Roles
+  key: Roles y permisos
   parent: Mi empresa
   order: 10
   #title: Hello, world.
@@ -54,3 +54,12 @@ Deberá marcar los permisos que desea agregar al rol en cuestión. La lista de p
 ![Rol](/content/images/bussiness/roles/add-role-4.jpg)
 
 **Una vez el rol a sido agregado, podrá crear o editar un usuario y agregarle el nuevo rol.**
+
+
+---
+
+# Permisos
+
+En esta sección se describen cada uno de los permisos que a otorgado a los roles a creado, seleccionando el rol en el menú desplegable de la derecha podrá ver los permisos del mismo.
+
+![Permisos](/content/images/bussiness/roles/permisos-2.png)
