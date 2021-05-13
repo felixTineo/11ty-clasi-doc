@@ -1,7 +1,7 @@
 ---
 title: Lista de propiedades
 date: Last Modified
-permalink: /properties/list.html
+permalink: /properties/list/index.html
 eleventyNavigation:
   key: Lista de propiedades
   parent: Propiedades
@@ -11,6 +11,8 @@ eleventyNavigation:
 
 La lista de propiedades es lo primero que el usuario podrá ver al entrar en propiedades.
 Esta sección cuenta con una variedad de herramientas que le permitirá gestionar sus propiedades
+
+![seccion propiedades](/content/images/properties/list/list-card.jpg)
 
 ---
 
