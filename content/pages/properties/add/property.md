@@ -9,7 +9,7 @@ eleventyNavigation:
   #title: Hello, world.
 ---
 
-Agregar propiedad
+En esta sección podrá agregar la información mas básica relacionada con la propiedad que desea cargar.
 
 ![carga de propiedad - propiedad](/content/images/properties/add/property.jpg)
 
