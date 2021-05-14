@@ -1,9 +1,9 @@
 ---
-title: Propiedad
+title: Item
 date: Last Modified
 permalink: /properties/list/property.html
 eleventyNavigation:
-  key: Propiedad
+  key: Item
   parent: Lista de propiedades
   order: 15
   #title: Hello, world.
